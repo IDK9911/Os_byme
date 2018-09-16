@@ -14,18 +14,7 @@ for(i=1;i<6;i++)
 	bt[i]=b;
 	
 	}
-/*
-in the loop
-arrival time
-	burst time
-		completion time
-3	5	8
-8	2	7
-10	2	12
-12	3	12
-15	1	16
 
-*/
 a=0;
 x=1;
 for (i=1;i<6;i++)
